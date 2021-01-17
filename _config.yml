@@ -4,12 +4,11 @@
 
 # Site
 title: Alwaysherewithme
-subtitle: developer & researcher
+# subtitle: developer & researcher
+subtitle: developer & postgraduate
 description: Welcome to Alwaysherewithme's blog!
-keywords: Full Stack, Web Dev, AI
+keywords: Web Dev, AI, Self-improvment
 author: Alwaysherewithme
-language: en
-timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
